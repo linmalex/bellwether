@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bellwether/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bellwether/static/js/main.cd026665.chunk.js",
+    "main.js.map": "/bellwether/static/js/main.cd026665.chunk.js.map",
+    "runtime-main.js": "/bellwether/static/js/runtime-main.eeb8695d.js",
+    "runtime-main.js.map": "/bellwether/static/js/runtime-main.eeb8695d.js.map",
+    "static/js/2.74c9af1d.chunk.js": "/bellwether/static/js/2.74c9af1d.chunk.js",
+    "static/js/2.74c9af1d.chunk.js.map": "/bellwether/static/js/2.74c9af1d.chunk.js.map",
+    "index.html": "/bellwether/index.html",
+    "precache-manifest.91765cc0032acacef07f496c8a07162e.js": "/bellwether/precache-manifest.91765cc0032acacef07f496c8a07162e.js",
+    "service-worker.js": "/bellwether/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bellwether/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.74c9af1d.chunk.js.LICENSE.txt": "/bellwether/static/js/2.74c9af1d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bellwether/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeb8695d.js",
+    "static/js/2.74c9af1d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cd026665.chunk.js"
+  ]
+}
