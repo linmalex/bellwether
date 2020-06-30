@@ -1,6 +1,6 @@
 {
   "name": "bellwether",
-  "homepage": "/build",
+  "homepage": "https://aqueous-castle-73267.herokuapp.com/build",
   "version": "0.1.0",
   "private": true,
   "engines": {
