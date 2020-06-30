@@ -1,5 +1,6 @@
 {
   "name": "bellwether",
+  "homepage": "/build",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -16,8 +17,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "node server/server.js",
     "build": "react-scripts build",
+    "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
