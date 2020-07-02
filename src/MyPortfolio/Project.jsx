@@ -34,12 +34,12 @@ export class Project extends Component {
         </a>
         <div className="project-details">
           <div className="project-tile">
-            <p className="icons">
+            {/* <p className="icons">
               {projectTech.split(" ").map((t) => (
                 <i className={tech[t]} key={t} />
               ))}
-            </p>
-            {project.title}{" "}
+            </p> */}
+            {project.name}{" "}
           </div>
           {this.props.children}
           <div className="buttons"></div>
