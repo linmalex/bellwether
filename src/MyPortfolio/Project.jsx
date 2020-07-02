@@ -28,7 +28,7 @@ export class Project extends Component {
         >
           <img
             className="project-image"
-            src={project.img}
+            src={project.photoUrl}
             alt={"Screenshot of " + project.title}
           />
         </a>
