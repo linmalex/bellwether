@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import { StickyNav } from "./StickyNav";
-import { AnimatedPage } from "./MyPortfolio/AnimatedPage";
+import { AnimatedPage } from "./pages/AnimatedPage";
 import "./App.css";
 import "./styles.scss";
 class StickyNavigation {

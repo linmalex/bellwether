@@ -1,13 +1,13 @@
 import React, { Component } from "react";
-import { Nav } from "./Nav";
-import { Menu } from "./Menu";
+import { Nav } from "../components/Nav";
+import { Menu } from "../components/Menu";
 import { About } from "./About";
-import { Header } from "./Header";
-import { Contact } from "./Contact";
-import { Footer } from "./Footer";
-import { Projects } from "./Projects";
+import { Header } from "../components/Header";
+import { Contact } from "../components/Contact";
+import { Footer } from "../components/Footer";
+import { Projects } from "../components/Projects";
 
-import "./portfolioStyles.scss";
+import "../styles/portfolioStyles.scss";
 
 export class AnimatedPage extends React.Component {
   state = {
